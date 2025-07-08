@@ -43,7 +43,7 @@ El resultado final es un conjunto de informes interactivos que permiten analizar
 ## 👤 Autor
 
 📌 **[Joan Martín]** – *Data Analyst*  
-🌐 [JohanStragus](https://github.com/tu-usuario)  
+🌐 [JohanStragus](https://github.com/JohanStragus)  
 
 ---
 
