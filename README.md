@@ -1,8 +1,6 @@
 # PROYECTO-TAILWIND-TRADERS
 [![Power BI](https://img.shields.io/badge/Built%20with-Power%20BI-yellow?style=for-the-badge&logo=powerbi)](https://powerbi.microsoft.com/)
 
-# 🏢 Tailwind Traders – Proyecto Power BI
-
 Este es un proyecto completo de análisis de datos realizado con Power BI. El objetivo principal es demostrar las competencias adquiridas como Data Analyst, replicando un flujo de trabajo real utilizando exclusivamente Power BI.  
 
 El proyecto toma como caso de estudio a **Tailwind Traders**, una empresa ficticia, y desarrolla todo el proceso: desde la preparación y limpieza de datos hasta la creación de informes interactivos y cuadros de mando ejecutivos adaptados a dispositivos móviles.  
@@ -20,10 +18,10 @@ El proyecto toma como caso de estudio a **Tailwind Traders**, una empresa fictic
 
 ## 📓 Descripción general del proyecto
 
-📥 **`Preparación de datos:`** limpieza y enriquecimiento en Excel para cálculos adicionales.
-🧠 **`Modelado en Power BI:`** relaciones, medidas y cálculos DAX para un análisis completo.
-📊 **`Visualizaciones:`** informes interactivos con gráficos, KPI y filtros dinámicos.
-📱 **`Cuadro de mando:`** panel ejecutivo con métricas clave y diseño adaptado a móviles.
+📥 - **`Preparación de datos:`** limpieza y enriquecimiento en Excel para cálculos adicionales.
+🧠 - **`Modelado en Power BI:`** relaciones, medidas y cálculos DAX para un análisis completo.
+📊 - **`Visualizaciones:`** informes interactivos con gráficos, KPI y filtros dinámicos.
+📱 - **`Cuadro de mando:`** panel ejecutivo con métricas clave y diseño adaptado a móviles.
 
 ---
 
