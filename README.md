@@ -18,10 +18,10 @@ El proyecto toma como caso de estudio a **Tailwind Traders**, una empresa fictic
 
 ## 📓 Descripción general del proyecto
 
-📥 - **`Preparación de datos:`** limpieza y enriquecimiento en Excel para cálculos adicionales.
-🧠 - **`Modelado en Power BI:`** relaciones, medidas y cálculos DAX para un análisis completo.
-📊 - **`Visualizaciones:`** informes interactivos con gráficos, KPI y filtros dinámicos.
-📱 - **`Cuadro de mando:`** panel ejecutivo con métricas clave y diseño adaptado a móviles.
+- 📥 **`Preparación de datos:`** limpieza y enriquecimiento en Excel para cálculos adicionales.
+- 🧠 **`Modelado en Power BI:`** relaciones, medidas y cálculos DAX para un análisis completo.
+- 📊 **`Visualizaciones:`** informes interactivos con gráficos, KPI y filtros dinámicos.
+- 📱 **`Cuadro de mando:`** panel ejecutivo con métricas clave y diseño adaptado a móviles.
 
 ---
 
