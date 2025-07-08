@@ -20,23 +20,19 @@ El proyecto toma como caso de estudio a **Tailwind Traders**, una empresa fictic
 
 ## 📓 Descripción general del proyecto
 
-El proyecto abarca las siguientes fases:  
-
-1. 📥 **Preparación de datos:** limpieza y enriquecimiento de los datos originales en Excel.  
-2. 🗂️ **Modelado en Power BI:** configuración de relaciones, creación de medidas y cálculos DAX (como ingresos brutos, costes unitarios, márgenes y beneficios).  
-3. 📊 **Visualizaciones interactivas:** desarrollo de informes de ventas y beneficios con gráficos, KPI y slicers para análisis dinámico.  
-4. 📱 **Cuadro de mando ejecutivo:** panel global con métricas clave y adaptación a dispositivos móviles.  
-
-El resultado final es un conjunto de informes interactivos que permiten analizar ventas, beneficios y tendencias para facilitar la toma de decisiones estratégicas.  
+📥 **`Preparación de datos:`** limpieza y enriquecimiento en Excel para cálculos adicionales.
+🧠 **`Modelado en Power BI:`** relaciones, medidas y cálculos DAX para un análisis completo.
+📊 **`Visualizaciones:`** informes interactivos con gráficos, KPI y filtros dinámicos.
+📱 **`Cuadro de mando:`** panel ejecutivo con métricas clave y diseño adaptado a móviles.
 
 ---
 
-## 🚀 Cómo usar este repositorio
+## 💡 Cómo usar este repositorio
 
 1. Descarga o clona el repositorio.  
-2. Abre el archivo `Tailwind-Traders.pbix` en Power BI Desktop (versión gratuita o Pro).  
-3. Consulta la carpeta Docs/ para acceder a la documentación completa del proyecto. Puedes elegir entre el archivo en **Word (.docx)** o en **PDF**, según tu preferencia. Haz clic en el archivo para verlo online o descárgalo directamente desde el botón “Download”.  
-4. Los datos de origen están disponibles en la carpeta **Datos/** para referencia o modificaciones.  
+2. Abre el archivo **`Tailwind-Traders.pbix`** en Power BI Desktop (versión gratuita o Pro).  
+3. Los datos de origen están en la carpeta Datos/ para consulta o modificaciones.  
+4. Consulta la carpeta Docs/ para acceder a la documentación completa (disponible en Word y PDF). Puedes verla online o descargarla desde el botón **“Download”**. 
 
 ---
 
